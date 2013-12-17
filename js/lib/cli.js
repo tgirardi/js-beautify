@@ -217,7 +217,7 @@ function usage(err) {
             msg.push('  -x, --unescape-strings        Decode printable characters encoded in xNN notation');
             msg.push('  -w, --wrap-line-length        Wrap lines at next opportunity after N characters [0]');
             msg.push('  -X, --e4x                     Pass E4X xml literals through untouched');
-            msg.push('  -F, --comma_first             Use comma first format in variables declarations and objects');
+            msg.push('  -F, --comma-first             Use comma first format in variables declarations and objects');
             msg.push('  --good-stuff                  Warm the cockles of Crockford\'s heart');
             break;
         case "html":
